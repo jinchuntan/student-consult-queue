@@ -60,5 +60,5 @@ Distributed under the MIT License. See LICENSE for more information.
 ### Contact
 Tan Jin Chun - nigeltanjc@gmail.com
 
-Project Link: https://github.com/your_username_/Project-Name
+Project Link: https://student-consult-queue.vercel.app/
 
